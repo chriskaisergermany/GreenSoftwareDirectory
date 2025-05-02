@@ -112,6 +112,10 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ipmitool](https://github.com/ipmitool/ipmitool): An open-source tool for controlling IPMI-enabled systems that gets the power consumption of a bare metal machine.
 - [Ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity): How much energy does it take to power popular Ethereum-backed CryptoArt platforms? And what emissions are associated with this energy use?
 - [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
+
+## Offsetting
+> Offset the remaining carbon emissions. Important: Always reduce emissions first! Reduce as much as you can - and then only offset whatever really can't be avoided.
+- [Click A Tree](https://clickatree.com/): Top rated B Corp taking offsetting to the next level. In addition to growing forests to offsett CO2, they also create much-needed jobs, support education, finance gender equality and much more. Very easy to work with.
   
 ---
 ### Contributing to GitHub's Green Software Directory
